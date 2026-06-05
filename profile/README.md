@@ -1,151 +1,121 @@
-# <p align="center">
-
-  <img src="https://raw.githubusercontent.com/VeiluxLabs/.github/main/VeiLux-labs.jpg" alt="VEILUX Labs" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VeiluxLabs/.github/main/VeiLux-labs.jpg" alt="VEILUX" width="100%">
 </p>
 
 <h1 align="center">VEILUX</h1>
 
 <p align="center">
-  <strong>Privacy by Default. Intelligence by Design.</strong>
+  <strong>Confidential Infrastructure for the Intelligent Economy</strong>
 </p>
 
 <p align="center">
-  A Privacy-First • AI-Native • Modular Blockchain Infrastructure
+  Privacy-First • AI-Native • Modular by Design
+</p>
+
+<p align="center">
+  <a href="https://github.com/VeiluxLabs">GitHub</a>
 </p>
 
 ---
 
-## About VEILUX
+## About
 
-VEILUX is a next-generation blockchain platform designed for confidential applications, decentralized AI, and enterprise-grade infrastructure.
+VEILUX is a privacy-first blockchain platform designed for confidential applications, decentralized intelligence, and enterprise-grade infrastructure.
 
-Built around a lightweight execution kernel known as **Photon**, VEILUX separates core protocol responsibilities from application functionality through a modular architecture called **Prisms**.
+Built around a lightweight protocol core known as **Photon**, VEILUX combines cryptographic privacy, verifiable execution, and modular extensibility to provide a foundation for the next generation of digital systems.
 
-The result is a blockchain that remains minimal at its core while allowing capabilities such as AI, storage, identity, digital assets, and custom services to evolve independently.
+Our architecture enables organizations to coordinate, transact, and compute securely while maintaining full control over information visibility.
 
 ---
 
-## Core Pillars
+## Platform
 
-### ⚡ Photon Kernel
+### Photon
 
-A featherweight blockchain core focused on:
+Photon is the foundational execution kernel of VEILUX.
 
-* Deterministic execution
-* Content-addressed state
+It provides:
+
+* Deterministic state transitions
+* Content-addressed storage
 * Cryptographic commitments
-* Event-driven architecture
+* Event-driven execution
 * Minimal protocol complexity
 
-### 🕶 Veil Privacy Layer
+### Veil
 
-Inspired by modern confidential ledger systems.
+Veil is the confidentiality layer of the network.
 
-VEILUX enables:
+It enables:
 
-* Stakeholder-only visibility
+* Stakeholder-specific visibility
 * Encrypted transaction views
-* Shared global consensus
-* Auditable cryptographic proofs
+* Shared consensus
+* Verifiable auditability
 
-Participants can verify that transactions occurred without gaining access to private information.
+Participants can verify outcomes without accessing confidential information.
 
-### 🔮 Prism Framework
+### Prisms
 
-Every capability in VEILUX is implemented as a Prism.
+Prisms are modular protocol extensions.
 
-Reference implementations include:
+Each Prism introduces new capabilities without increasing the complexity of the protocol core.
+
+Current reference implementations include:
 
 * AI Prism
 * Storage Prism
 
-Future ecosystem modules may include:
-
-* Digital Assets
-* Identity
-* Oracles
-* EVM Compatibility
-* Zero-Knowledge Services
-* Enterprise Integrations
+Future ecosystem modules may include identity, digital assets, oracle networks, zero-knowledge services, and enterprise integrations.
 
 ---
 
-## Architecture
+## Principles
 
-```text
-┌──────────────────────────────┐
-│           VEILUX             │
-├──────────────────────────────┤
-│      Veil Privacy Layer      │
-├──────────────────────────────┤
-│      Cascade Execution       │
-├──────────────────────────────┤
-│        Prism Modules         │
-│  ├─ AI                       │
-│  ├─ Storage                  │
-│  └─ Custom Extensions        │
-├──────────────────────────────┤
-│        Photon Kernel         │
-└──────────────────────────────┘
-```
+### Privacy by Default
+
+Information should be disclosed intentionally, not exposed by architecture.
+
+### Verifiability Without Disclosure
+
+Network participants must be able to verify outcomes without accessing underlying confidential data.
+
+### Modular Evolution
+
+Capabilities should evolve independently from consensus.
+
+### Sustainable Simplicity
+
+A lightweight protocol core creates stronger security, greater flexibility, and long-term maintainability.
 
 ---
 
-## Why VEILUX?
+## Areas of Focus
 
-* Privacy by Default
-* AI-Native Infrastructure
-* Modular Architecture
-* Lightweight Protocol Design
-* Cryptographic Verifiability
-* Enterprise-Ready Security
-* Developer-Friendly Extensibility
+* Confidential Finance
+* Decentralized AI Infrastructure
+* Enterprise Coordination Networks
+* Verifiable Data Systems
+* Private Digital Asset Platforms
+* Institutional Blockchain Applications
 
 ---
 
 ## For Developers
 
-VEILUX is built in Rust and designed for extensibility.
+VEILUX is built in Rust and designed around a modular architecture that prioritizes extensibility and operational simplicity.
 
-Developers can create custom Prisms to introduce new protocol capabilities without modifying the underlying blockchain kernel.
+Developers can build custom Prisms to introduce new protocol functionality while preserving compatibility with the underlying execution environment.
 
-Whether building confidential finance, AI-powered applications, decentralized storage, or industry-specific infrastructure, VEILUX provides a flexible foundation.
+Whether building AI services, financial infrastructure, identity systems, or application-specific networks, VEILUX provides a flexible foundation for innovation.
 
 ---
 
 ## Vision
 
-We believe the future of decentralized infrastructure requires:
+The future of digital infrastructure requires privacy, intelligence, and verifiability to coexist without compromise.
 
-* Strong privacy guarantees
-* Verifiable computation
-* Native AI integration
-* Modular evolution
-
-VEILUX exists to provide that foundation.
-
----
-
-## Contributing
-
-We welcome contributions from developers, researchers, and organizations interested in:
-
-* Distributed Systems
-* Blockchain Infrastructure
-* Cryptography
-* Artificial Intelligence
-* Privacy Technologies
-* Decentralized Storage
-
----
-
-## Connect
-
-Website: Coming Soon
-
-Documentation: Coming Soon
-
-GitHub: https://github.com/VeiluxLabs
+VEILUX exists to provide the foundation for that future.
 
 ---
 
@@ -154,5 +124,5 @@ GitHub: https://github.com/VeiluxLabs
 </p>
 
 <p align="center">
-  Privacy in the Shadows. Intelligence in the Light.
+  Building Privacy-First Infrastructure for a More Intelligent Future.
 </p>

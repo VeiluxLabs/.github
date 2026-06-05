@@ -1,104 +1,68 @@
-# ✨ Welcome to VEILUX
+# VEILUX
 
-> **Featherweight • Privacy-First • AI-Native Blockchain**
+### Privacy by Default. Intelligence by Design.
 
-VEILUX is a modular blockchain designed for confidential applications, decentralized AI, and scalable infrastructure.
+VEILUX is a privacy-first, AI-native blockchain designed for the next generation of decentralized applications.
 
-Built around a lightweight core called **Photon**, VEILUX enables developers to compose blockchain capabilities as independent modules called **Prisms** while maintaining strong privacy guarantees inspired by Canton.
+Built around a featherweight kernel called **Photon**, VEILUX combines modular execution, confidential data sharing, and deterministic AI infrastructure into a unified platform for developers, enterprises, and institutions.
+
+Our architecture enables applications to remain private without sacrificing verifiability, allowing participants to share a common ledger while revealing information only to authorized stakeholders.
 
 ---
 
-## 🚀 What Makes VEILUX Different?
+## Core Technologies
 
-### ⚡ Featherweight Core
+### Photon Kernel
 
-The Photon kernel contains only the essentials:
+A lightweight execution core focused on deterministic state transitions, content-addressed storage, and cryptographic commitments.
 
-* Content-addressed state
-* Merkle commitments
-* Event-driven execution
-* Modular extension system
+### Veil Privacy Layer
 
-No unnecessary complexity.
+A confidentiality framework inspired by modern privacy-preserving distributed ledger systems.
 
-### 🔮 Prism Architecture
+Transactions remain visible only to authorized parties while maintaining global consensus and auditability.
 
-Everything is a Prism.
+### Prism Framework
 
-Current reference modules:
+A modular extension system that allows capabilities to be added as independent modules.
+
+Current reference implementations include:
 
 * AI Prism
 * Storage Prism
 
-Future modules may include:
-
-* Tokens
-* Oracles
-* EVM Compatibility
-* Zero-Knowledge Services
-* Identity
-
-### 🕶 Privacy by Default
-
-VEILUX separates **consensus** from **visibility**.
-
-All validators agree on the same state root while only authorized participants can access private transaction data.
+Additional modules can be developed and deployed without modifying the core protocol.
 
 ---
 
-## 🏗 Architecture
+## Principles
 
-```text
-Photon Kernel
-      │
-      ▼
- Cascade Engine
-      │
-      ▼
- Prism Modules
- ├── AI
- ├── Storage
- └── Custom Extensions
-      │
-      ▼
- Veil Privacy Layer
-```
+* Privacy by Default
+* Modular by Design
+* AI-Native Infrastructure
+* Cryptographic Verifiability
+* Minimal Core Complexity
+* Enterprise-Grade Security
 
 ---
 
-## 📚 Documentation
+## For Developers
 
-* Architecture
-* Privacy Model
-* Prism Development Guide
-* Security Model
-* Installation Guide
-* Roadmap
+VEILUX is built using Rust and designed around a simple philosophy:
 
-Documentation will be available inside the `/docs` directory.
+> The protocol should remain lightweight, while functionality evolves through modular extensions.
+
+Developers can build custom Prisms to introduce new capabilities including digital assets, oracles, identity systems, AI services, storage networks, and application-specific logic.
 
 ---
 
-## 🌈 Contributing
+## Mission
 
-We welcome contributors interested in:
+Our mission is to create infrastructure where privacy, intelligence, and composability coexist without compromise.
 
-* Rust
-* Distributed Systems
-* Cryptography
-* Privacy Technologies
-* AI Infrastructure
-* Blockchain Research
-
-Feel free to open issues, submit pull requests, and help shape the future of private decentralized computing.
+VEILUX empowers organizations to build confidential applications, coordinate securely, and leverage AI within a decentralized environment.
 
 ---
-
-## 🔗 Vision
-
-Our goal is simple:
-
-**Build a blockchain where privacy is the default, AI is a first-class citizen, and every capability is modular.**
 
 ### VEILUX
 
